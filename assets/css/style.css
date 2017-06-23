@@ -1,0 +1,39 @@
+body {
+	background: url("../images/hair-bands.jpg");
+	background-position: center;
+}
+
+.game-zone {
+	background-color: rgba(66, 244, 238, 0.75);
+	margin-top: 40px; 
+	padding: 220px 20px;
+	border: 10px 20px;
+}
+
+h1 {
+	text-align: center;
+	color: #9e1f6b;
+	margin: auto;
+	padding: 20px 240px;
+}
+
+#start {
+	text-align: center;
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#start:hover {
+	background-color: blue;
+}
+
+#clock {
+	text-align: center;
+	font-size: 50px;
+}
+
+h2:hover {
+
+}
